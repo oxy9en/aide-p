@@ -4,11 +4,11 @@
         <title>Aide</title>
         <item>
             <title>1.0.2</title>
-            <pubDate>Thu, 16 May 2024 19:40:56 -0700</pubDate>
+            <pubDate>Thu, 16 May 2024 20:09:40 -0700</pubDate>
             <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.0.2/Aide.dmg" length="57140619" type="application/octet-stream" sparkle:edSignature="H1jquolZKAbGOWg6AbTsOlmD0rjkywm83dDhbxNmC8WqlamjFS5/AZZK8phUELU18sjAgW53gmGl0yFjTpwQCQ=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.0.2/Aide.dmg" length="57259868" type="application/octet-stream" sparkle:edSignature="NRglYsV08wCbWomx7V7eWEe6kexpoIJY51aeJvqyJkg7hXI0Cpok4AF4cCNGAJVYe2kfmswjfMxsb0VM3/a+DQ=="/>
         </item>
     </channel>
 </rss>
