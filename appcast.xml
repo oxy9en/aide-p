@@ -3,12 +3,12 @@
     <channel>
         <title>Aide</title>
         <item>
-            <title>1.12.1</title>
-            <pubDate>Mon, 07 Oct 2024 12:56:05 -0700</pubDate>
-            <sparkle:version>55</sparkle:version>
-            <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
+            <title>1.13.0</title>
+            <pubDate>Sat, 26 Oct 2024 14:25:14 -0700</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.12.1/Aide.dmg" length="58741982" type="application/octet-stream" sparkle:edSignature="JJq5R3pcIU4uSzpn1TNskJB5BScRrRHh6wzI+Wm+D0YpESil4my4GdOGwXpWj7gL/ZytHsfhmYXEo3o5Q3IbBw=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.13.0/Aide.dmg" length="59176093" type="application/octet-stream" sparkle:edSignature="82Xm5HamzrN1CM+kv6rzlHvXoALZPGeYFqdY3+Q5V91ZCECjA0TpBq4sIJ69eSr1THjSfk2/5CCWJOL7TxyDAQ=="/>
         </item>
     </channel>
 </rss>
