@@ -3,12 +3,12 @@
     <channel>
         <title>Aide</title>
         <item>
-            <title>1.17.15</title>
-            <pubDate>Mon, 03 Mar 2025 11:32:46 -0800</pubDate>
-            <sparkle:version>105</sparkle:version>
-            <sparkle:shortVersionString>1.17.15</sparkle:shortVersionString>
+            <title>1.17.17</title>
+            <pubDate>Fri, 21 Mar 2025 13:53:01 -0700</pubDate>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:shortVersionString>1.17.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.17.15/Aide.dmg" length="61649987" type="application/octet-stream" sparkle:edSignature="qMX9wgYh/sBq7RrfQ8Teaefxe4DXURjb4zy4SxsZc83Wvu0uIXSckJcLc+aNVHgu0jRRrlixxqlPyJBvSHNRAg=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.17.17/Aide.dmg" length="61684037" type="application/octet-stream" sparkle:edSignature="UKhyYqpjsUW80FSPglAVuHlYeD+TiPLGqnnWeY6bNbB89LSUObgegCIWc5XMR/gRZvXEmMbvZgXKhKduHLtSCA=="/>
         </item>
     </channel>
 </rss>
