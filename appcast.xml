@@ -3,12 +3,12 @@
     <channel>
         <title>Aide</title>
         <item>
-            <title>D1.24.23</title>
-            <pubDate>Fri, 29 Aug 2025 07:49:48 -0700</pubDate>
-            <sparkle:version>153</sparkle:version>
-            <sparkle:shortVersionString>D1.24.23</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.24.23/Aide.dmg" length="76047087" type="application/octet-stream" sparkle:edSignature="t2mqXJEVk/23KkQL+rG4wd8C2f1CHuTsGR4uzC09OSUHTdkxNaE4RZ7fOXuBV+2j4RVH3g2jKnD3hOxnPDF1CQ=="/>
+            <title>D1.25.0</title>
+            <pubDate>Thu, 09 Oct 2025 13:26:07 -0700</pubDate>
+            <sparkle:version>181</sparkle:version>
+            <sparkle:shortVersionString>D1.25.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.25.0/Aide.dmg" length="85821801" type="application/octet-stream" sparkle:edSignature="89yUVWrmJ1qPF3I04MpKlNXoQXFjJ5gpm+kkz0MH+T2AV2nWFw9RikzMDGNf6L46LkLP0q8f6Zx7FfcFhx7iDA=="/>
         </item>
     </channel>
 </rss>
