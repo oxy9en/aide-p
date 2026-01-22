@@ -8,8 +8,9 @@
             <sparkle:version>222</sparkle:version>
             <sparkle:shortVersionString>D1.27.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/tag/1.27.0#:~:text=3-,Aide.dmg,-sha256%3Aaf283417b98f1321cd6e25b8a8ca7b24681b2003193c24368129c1ab0b388788" length="79518927" type="application/octet-stream" sparkle:edSignature="5paYKBKXMTplymmvgGE+/hIPjhpAMI8cRoyayGAmwMTC42AcQ664xJL717BDGUcAGuyUHTorLQ8Weg/fJojRDQ=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/1.27.0/Aide.dmg" length="79518927" type="application/octet-stream" sparkle:edSignature="5paYKBKXMTplymmvgGE+/hIPjhpAMI8cRoyayGAmwMTC42AcQ664xJL717BDGUcAGuyUHTorLQ8Weg/fJojRDQ=="/>
         </item>
     </channel>
 </rss>
+
 
