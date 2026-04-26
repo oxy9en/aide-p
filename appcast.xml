@@ -3,12 +3,12 @@
     <channel>
         <title>Aide</title>
         <item>
-            <title>D2.7.0</title>
-            <pubDate>Sat, 25 Apr 2026 12:02:18 -0700</pubDate>
-            <sparkle:version>270</sparkle:version>
-            <sparkle:shortVersionString>D2.7.0</sparkle:shortVersionString>
+            <title>D2.7.1</title>
+            <pubDate>Sun, 26 Apr 2026 14:02:58 -0700</pubDate>
+            <sparkle:version>271</sparkle:version>
+            <sparkle:shortVersionString>D2.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.7.0/Aide.dmg" length="99866164" type="application/octet-stream" sparkle:edSignature="5iuiZWTQpYV37MkXzzdtN7Ywlbtq1YVmJprROEfQ3B97bYBy9fcKqilf3Svc/QEvV/QqAg5z0LQ1M42GXj7tBw=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.7.1/Aide.dmg" length="99943754" type="application/octet-stream" sparkle:edSignature="VelWe4UZpTe34MqCWO13XqM5wLy0SRGNYnOId0qTErGtmETDiROmmzdxj63bVILCkYjsKBaTSBLbxIRI7GRdCQ=="/>
         </item>
     </channel>
 </rss>
