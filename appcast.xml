@@ -3,12 +3,12 @@
     <channel>
         <title>Aide</title>
         <item>
-            <title>D2.8.1</title>
-            <pubDate>Mon, 11 May 2026 16:46:44 -0700</pubDate>
-            <sparkle:version>282</sparkle:version>
-            <sparkle:shortVersionString>D2.8.1</sparkle:shortVersionString>
+            <title>D2.8.2</title>
+            <pubDate>Thu, 21 May 2026 15:13:03 -0700</pubDate>
+            <sparkle:version>284</sparkle:version>
+            <sparkle:shortVersionString>D2.8.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.8.1/Aide.dmg" length="102905595" type="application/octet-stream" sparkle:edSignature="Jq0y/MnNNa1ExJ15qLhY0Z5xYZX6oMi4tQM+GMhgjO2gMp1E4V8JVMaJhcyXL3/wWwRzNPpILCqEiCOU84d6DQ=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.8.2/Aide.dmg" length="102665753" type="application/octet-stream" sparkle:edSignature="G9/kp6c+dyHshmWjf/SKsPYPYtt+5FHAEQGWjCVcEtoMYbzi+bNKDGgaftPum22PR580ibcGDfRGsGOHiXbHCA=="/>
         </item>
     </channel>
 </rss>
