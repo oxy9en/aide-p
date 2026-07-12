@@ -4,12 +4,12 @@
         <title>Aide</title>
         <item>
             <title>D2.8.10</title>
-            <pubDate>Sun, 12 Jul 2026 14:13:27 -0700</pubDate>
+            <pubDate>Sun, 12 Jul 2026 14:37:18 -0700</pubDate>
             <sparkle:version>292</sparkle:version>
             <sparkle:shortVersionString>D2.8.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.8.10/Aide.dmg" length="138510951" type="application/octet-stream" sparkle:edSignature="K5eOQLUm0F25zYi13pzBt7dT3kraWeYN8LlKqALVlrklpT4drx5NYuNrrMxxied++ZzBK89aooCoyFxIYMimDg=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.8.10/Aide.dmg" length="138510451" type="application/octet-stream" sparkle:edSignature="hqQRF/fxblxm2PGYkUhAq6kzobVh6MvLTBV74APN/OYEuJdC99gP2fgt9pbItbWaN3kM54txPUSYVNzMiqJuCg=="/>
         </item>
     </channel>
 </rss>
