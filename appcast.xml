@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>D2.10.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.10.1/Aide.app.zip" length="106635867" type="application/octet-stream" sparkle:edSignature="eBtcDcg81PFYdkNo5sRLzFRzrfTm0xaRCV/lT0bcniHbfGl2Vt469rXVM81BgmOmSOwhMBAmDxn29TL+pTcRCw=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.10.1/Aide.dmg" length="106635867" type="application/octet-stream" sparkle:edSignature="eBtcDcg81PFYdkNo5sRLzFRzrfTm0xaRCV/lT0bcniHbfGl2Vt469rXVM81BgmOmSOwhMBAmDxn29TL+pTcRCw=="/>
         </item>
     </channel>
 </rss>
