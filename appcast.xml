@@ -3,13 +3,13 @@
     <channel>
         <title>Aide</title>
         <item>
-            <title>D2.10.4</title>
-            <pubDate>Sun, 30 Aug 2026 16:16:02 -0700</pubDate>
-            <sparkle:version>304</sparkle:version>
-            <sparkle:shortVersionString>D2.10.4</sparkle:shortVersionString>
+            <title>D2.10.5</title>
+            <pubDate>Tue, 22 Sep 2026 22:00:19 -0700</pubDate>
+            <sparkle:version>305</sparkle:version>
+            <sparkle:shortVersionString>D2.10.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.10.4/Aide.dmg" length="114062090" type="application/octet-stream" sparkle:edSignature="V59wyDJbJsleoVbT4xIwohhg4bHrOgkE3d63TWWx1gsWfUDcdF2ZdMEfKj7Llt107IDTx74P4c4/3mBmCj8HBQ=="/>
+            <enclosure url="https://github.com/oxy9en/aide-p/releases/download/2.10.5/Aide.dmg" length="113879615" type="application/octet-stream" sparkle:edSignature="TDrncF5joR8XlvISZ5RLIix5wAAvEwM8l0Fy+67RLe7QTJLxUvxt/AWoT0Zdk1L5K5AwgDkNVVrRtPiWg7YQCg=="/>
         </item>
     </channel>
 </rss>
